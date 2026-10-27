@@ -22,7 +22,7 @@ classement mondial, à plusieurs sur le même téléphone, ou **en ligne contre 
 
 <p align="center">
   <img src="images/app/hub.jpg" width="270" alt="Le camping"><br>
-  <sub>Le camping : un jeu par membre de la famille, la boutique, la vitrine et les défis du jour</sub>
+  <sub>Le camping : un jeu par membre de la famille, et tous les accessoires que tu peux leur faire gagner</sub>
 </p>
 
 ## 🎮 Les jeux
@@ -95,22 +95,40 @@ est serré et long, plus le combo grimpe… gare au mur !
 - **Coups fourrés** dans Dans le Mille : fumigène, miroir, stroboscope… pour déstabiliser l'adversaire.
 - **À plusieurs sur le même téléphone**, chacun son tour, pour les soirées au camping.
 
+## 🏆 Habille la famille Merguez
+
+Chaque jeu a ses **succès**, du bronze au diamant : parties jouées, meilleur score, duels gagnés,
+combos… Les débloquer rapporte des pièces et, surtout, **un accessoire pour le membre de la famille**
+du jeu : la chaîne en or et le tablier à carreaux de Patrick, le boa et les lunettes étoiles de
+Sandrine, la couronne de fleurs et le néon cœur de Cindy, les néons et la voiture violette de Kévin…
+
+**8 accessoires par personnage, 32 en tout.** Chacun apparaît directement au camping dès qu'il est
+gagné, et le 8e de chaque personnage, en or, récompense un véritable exploit.
+
+<table>
+<tr>
+<td align="center"><img src="images/app/succes.jpg" width="220"><br><sub>Les succès, du bronze au diamant</sub></td>
+<td align="center"><img src="images/app/vitrine-etageres.jpg" width="220"><br><sub>Ma vitrine : les accessoires gagnés</sub></td>
+<td align="center"><img src="images/app/hub.jpg" width="220"><br><sub>Et au camping, la famille est sapée</sub></td>
+</tr>
+</table>
+
 ## 🪙 Progression
 
 <table>
 <tr>
 <td align="center"><img src="images/app/boutique.jpg" width="220"><br><sub>La boutique de Sandrine</sub></td>
 <td align="center"><img src="images/app/defis-du-jour.jpg" width="220"><br><sub>Les défis du jour</sub></td>
-<td align="center"><img src="images/app/vitrine-etageres.jpg" width="220"><br><sub>Ma vitrine</sub></td>
+<td align="center"><img src="images/app/hub-halloween.jpg" width="220"><br><sub>Le camping version Halloween</sub></td>
 </tr>
 </table>
 
 - **Cadeau de bienvenue** à déballer en arrivant.
-- **Pièces** gagnées en jouant, à dépenser dans **la boutique de Sandrine** : extras pour fêter tes
-  records, et **Jokers** pour pardonner une erreur.
-- **Défis du jour**, les mêmes pour tout le monde, et une **série de jours** à entretenir.
+- **Pièces** gagnées en jouant, à dépenser dans **la boutique de Sandrine** : **Jokers** pour
+  pardonner une erreur, et **décors** pour changer l'ambiance des jeux.
+- **Défis du jour** (facile, moyen, dur), les mêmes pour tout le monde, et une **série de jours** à
+  entretenir.
 - **Niveaux et titres**, de « Touriste » à « Légende de la Ligue ».
-- **Succès et vitrine** : une étagère de lots kitsch à compléter pour chaque jeu.
 - Un camping qui change de décor au fil des saisons et des évènements 🎃
 
 Pas de pay-to-win : rien ne s'achète qui fausserait les classements.
