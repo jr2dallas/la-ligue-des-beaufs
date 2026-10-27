@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" width="200" alt="Google Play"><br>
-  <sub><b>Bientôt disponible sur Google Play</b> · actuellement en test</sub>
+  <a href="https://play.google.com/store/apps/details?id=com.jr2dallas.reflex"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/fr_badge_web_generic.png" width="200" alt="Disponible sur Google Play"></a><br>
+  <sub><b>Gratuit sur Google Play</b> 🎉</sub>
 </p>
 
 <img src="images/titre.webp" width="100%" alt="La famille Merguez au camping">
@@ -157,7 +157,7 @@ Pas de pay-to-win : rien ne s'achète qui fausserait les classements.
 
 ## 📊 Où en est le projet
 
-L'app est **en test sur le Google Play Store**, en route vers sa sortie publique. De nouveaux jeux et
+L'app est **disponible sur le [Google Play Store](https://play.google.com/store/apps/details?id=com.jr2dallas.reflex)** depuis octobre 2026. De nouveaux jeux et
 de nouvelles surprises sont en préparation au camping… 🍹🧸
 
 Ce dépôt est la vitrine du projet : le code source de l'application reste privé.
